@@ -1,0 +1,3 @@
+project(lgtmtest C CXX)
+
+
